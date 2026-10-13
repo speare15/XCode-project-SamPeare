@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chefs>
+	<chef>
+		<name>Gordon Ramsay</name>
+		<dob>08/11/1966</dob>
+        <restaurants>15</restaurants>
+        <books>23</books>
+        <tv>49</tv>
+        <cuisine>European dishes</cuisine>
+        <url>https://www.gordonramsay.com/</url>
+        <image>ramsay</image>
+        <video>https://youtu.be/MrDU2m-gKQc</video>
+     </chef>
+    <chef>
+        <name>Marco Pierre White</name>
+        <dob>11/12/1961</dob>
+        <restaurants>8</restaurants>
+        <books>10</books>
+        <tv>19</tv>
+        <cuisine>Haute cuisine French British Italian</cuisine>
+        <url>https://www.marcopierrewhite.co//</url>
+        <image>marco</image>
+        <video>https://youtu.be/xzAbpWISfKE</video>
+    </chef>
+    <chef>
+        <name>Darina Allen</name>
+        <dob>30/07/1948</dob>
+        <restaurants>1</restaurants>
+        <books>33</books>
+        <tv>0</tv>
+        <cuisine>Traditional Irish Cooking</cuisine>
+        <url>https://www.ballymaloecookeryschool.ie/ballymaloe-cookery-school/darina-allen</url>
+        <image>darina</image>
+        <video>https://youtu.be/DdsypiDqJtI</video>
+    </chef>
+    <chef>
+        <name>Jamie Oliver</name>
+        <dob>27/05/1975</dob>
+        <restaurants>15</restaurants>
+        <books>40</books>
+        <tv>51</tv>
+        <cuisine>Organic Italian British</cuisine>
+        <url>https://www.jamieoliver.com/</url>
+        <image>jamieOliver</image>
+        <video>https://youtu.be/D_2DBLAt57c</video>
+    </chef>
+    <chef>
+        <name>Nigella Lawson</name>
+        <dob>06/01/1960</dob>
+        <restaurants>0</restaurants>
+        <books>13</books>
+        <tv>21</tv>
+        <cuisine>Accessible home cooking</cuisine>
+        <url>https://www.nigella.com/</url>
+        <image>nigella</image>
+        <video>https://youtu.be/964pHBGzERU</video>
+    </chef>
+    <chef>
+        <name>Donal Skehan</name>
+        <dob>03/06/1986</dob>
+        <restaurants>0</restaurants>
+        <books>12</books>
+        <tv>24</tv>
+        <cuisine>Accessible home cooking</cuisine>
+        <url>https://donalskehan.com/</url>
+        <image>skehan</image>
+        <video>https://youtu.be/QWmrGIuUUoU</video>
+    </chef>
+    <chef>
+        <name>Anthony Bourdain</name>
+        <dob>25/06/1956</dob>
+        <restaurants>0</restaurants>
+        <books>33</books>
+        <tv>23</tv>
+        <cuisine>Street Food</cuisine>
+        <url>https://explorepartsunknown.com/</url>
+        <image>bourdain</image>
+        <video>https://youtu.be/4iXtDYOso1o</video>
+    </chef>
+    <chef>
+        <name>Gino D'Acampo</name>
+        <dob>17/07/1976</dob>
+        <restaurants>5</restaurants>
+        <books>26</books>
+        <tv>37</tv>
+        <cuisine>Southern Italian home-cooking</cuisine>
+        <url>https://ginodacampo.com/</url>
+        <image>gino</image>
+        <video>https://www.youtube.com/watch?v=fAOuhysG11s</video>
+    </chef>
+    <chef>
+        <name>Rachel Allen</name>
+        <dob>11/10/1971</dob>
+        <restaurants>1</restaurants>
+        <books>20</books>
+        <tv>20</tv>
+        <cuisine>Family-friendly recipes</cuisine>
+        <url>https://www.rachelallen.com/</url>
+        <image>rachel</image>
+        <video>https://youtu.be/wI_Pk3kNdL4</video>
+    </chef>
+    <chef>
+        <name>Rory O'Connell</name>
+        <dob>04/11/1948</dob>
+        <restaurants>2</restaurants>
+        <books>3</books>
+        <tv>6</tv>
+        <cuisine>Gourmet</cuisine>
+        <url>https://www.ballymaloecookeryschool.ie/ballymaloe-cookery-school/rory-oconnell</url>
+        <image>rory</image>
+        <video>https://youtu.be/vYCaKqYsz8E</video>
+    </chef>
+    <chef>
+        <name>Neven Maguire</name>
+        <dob>25/11/1973</dob>
+        <restaurants>1</restaurants>
+        <books>20</books>
+        <tv>18</tv>
+        <cuisine>Modern-Irish cuisine</cuisine>
+        <url>https://www.nevenmaguire.com/</url>
+        <image>neven</image>
+        <video>https://youtu.be/I_qccQpC4Ks</video>
+    </chef>
+    <chef>
+        <name>Rick Stein</name>
+        <dob>04/01/1947</dob>
+        <restaurants>11</restaurants>
+        <books>30</books>
+        <tv>41</tv>
+        <cuisine>Asian, Australian, European</cuisine>
+        <url>https://rickstein.com/</url>
+        <image>stein</image>
+        <video>https://www.youtube.com/watch?v=0kWLj7cgFIA</video>
+    </chef>
+    <chef>
+        <name>Yotam Ottolenghi</name>
+        <dob>14/12/1968</dob>
+        <restaurants>9</restaurants>
+        <books>22</books>
+        <tv>5</tv>
+        <cuisine>modern Middle Eastern and Mediterranean cuisine</cuisine>
+        <url>https://ottolenghi.co.uk/</url>
+        <image>yotam</image>
+        <video>https://youtu.be/hLir-lg0knk</video>
+    </chef>
+</chefs>
+
+
+
+
